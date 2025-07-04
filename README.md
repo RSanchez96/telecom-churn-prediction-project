@@ -19,6 +19,8 @@ Expected project structure:
     ├── data/
     │   └── WA_telco_data.csv
     ├── models/
+    ├── tests/
+    │   └── test_prep.py    
     ├── requirements.txt
 
 This setup ensures the following imports work without errors:
